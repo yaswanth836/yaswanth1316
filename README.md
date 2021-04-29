@@ -11,7 +11,7 @@
 
 <p>Tap on image to see the wikipedia of ROHIT SHARMA</p>
 <a href="https://en.wikipedia.org/wiki/Rohit_Sharma" target="_blank">
-<img src="![rohit](https://user-images.githubusercontent.com/83382489/116498731-0a9e3c80-a8c8-11eb-918f-8793ed209a00.jpg)" height="100%" widht="100%" border="2px"/>
+<img src="/convert/CZOikiV/rohit.html" height="100%" widht="100%" border="2px"/>
 </a>
 </body>
 </html>
